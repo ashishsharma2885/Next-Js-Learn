@@ -4,3 +4,4 @@ layout.tsx
 basic folder structuring
 routing - client side routing (endpoint)
 app router
+image
